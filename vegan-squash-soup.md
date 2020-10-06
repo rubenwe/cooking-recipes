@@ -1,6 +1,8 @@
 # Vegan Squash Soup
 Oven baked squash soup with oat milk
 
+![](vegan-squash-soup.jpg)
+
 ### Step 1: Preparation
 - Preheat oven to 190°C (380°F)
 
